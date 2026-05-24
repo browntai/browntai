@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am af full stack developer that utilises no code tools to make enerthing work seamlessly.<br>i look for an element of perfect in everthing i do.
+i am af full stack developer that utilises no code tools to make everything work seamlessly.<br>i look for an element of perfect in everthing i do.
 
 
 ## 🌐 Socials:
