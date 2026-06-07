@@ -2,8 +2,7 @@
 Detail-oriented and adaptable Computer Science graduate with hands-on experience in technical support,
 system deployment, and database administration. Proven ability to build and troubleshoot web applications,
 manage databases, and deploy complex hardware/network configurations under tight deadlines. Combines
-strong technical expertise with real-time hardware troubleshooting skills gained from managing highpressure live streaming environments. Highly flexible and eager to travel countrywide to support, train,
-and configure POS systems for SimbaPOS clients.
+strong technical expertise with real-time hardware troubleshooting skills gained from managing highpressure live streaming environments.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/brown.tai.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ tai-brown-4352003a0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:browntai651@gmail.com) 
